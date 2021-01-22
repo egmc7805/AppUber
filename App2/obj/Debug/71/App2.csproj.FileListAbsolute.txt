@@ -1,0 +1,13 @@
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\MonoAndroid,Version=v7.1.AssemblyAttributes.cs
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\build.props
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\adb.props
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\App2.csprojAssemblyReference.cache
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\res.flag
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\lp\6\jl\files.cache
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\lp\9\jl\files.cache
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\lp\10\jl\files.cache
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\lp\11\jl\files.cache
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\R.txt
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\R.cs.flag
+C:\Users\arlet_000\source\repos\App2\App2\obj\Debug\71\App2.csproj.CoreCompileInputs.cache

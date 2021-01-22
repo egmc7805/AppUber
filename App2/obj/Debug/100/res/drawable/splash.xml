@@ -1,0 +1,2 @@
+<layer-list xmlns:android="http://schemas.adroid.com/apk/res/android"><item><color android:color="@color/splashbackground"></color>&gt;	   
+	</item><item><bitmap android:src="@drawable/cover" android:scaleType="matrix" android:layout_heigth="fill_parent" android:layout_weigth="fill_parent" android:tileMode="disabled"></bitmap></item></layer-list>

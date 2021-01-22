@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<layer-list xmlns:android="http://schemas.adroid.com/apk/res/android">
+	<item>
+		<color android:color="@color/splashbackground"> </color>>	   
+	</item>
+	<item>
+		<bitmap
+			android:src="@drawable/cover"
+			android:scaleType="matrix"
+			android:layout_heigth="fill_parent"
+			android:layout_weigth="fill_parent"
+			android:tileMode="disabled">
+	</bitmap>
+	</item>
+</layer-list>
